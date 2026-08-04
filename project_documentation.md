@@ -15,8 +15,26 @@
 
 ### Functional Requirements:
 **Power Input** - If the device is plugged into a USB port or a wall power adapter, the microcontroller must immediately boot up, launch its internal clock code, and begin a 60-minute countdown loop in the background while keeping all LEDs and buzzers turned off so it doesn't disturb you while you work.
+
 **Time Tracker** - The microcontroller must continuously calculate the total time elapsed since it was turned on, updating a counter in its memory every second so that it can save or display the exact number of hours and minutes you have spent looking at your device.
 
 ### Test Cases:
+| Test Case | Input     | Expected Output   |
+|---------- |---------- |----------------   |
+|Screentime too long after turned on           |The 1 hour timer goes off          |The lights start blinking and alarm goes off                   |
+|Screentime is adequate after turned on           |1 hour timer is counting down           |The system does not do anything                   |
+|Product is not on           |There is no input           |There is no output                   |
 
 ### Non-Functional Requirements:
+**Efficiency** - The system must be able to work as soon as it is turned on and must be able to countdown properly. The LED's must be able to work properly and the user must also take responsibility to use the product for what it is meant for, only then the product will be able to reach maximum efficiency.
+
+**Response Time** - The LED's and microbit should activate to project light and sound within a one second. This way, the product will be can work like it is supposed to and the lights and sounds will activate every hour.
+
+**Accuracy** - The product must be accurate in terms of timing so that the light and sound will activate at the correct time and the product will do what it is meant to do.
+
+## Algorithms:
+### Flowchart:
+![alt text](image-1.png)
+
+### Pseudocode:
+kajsbfouiadalkjd
