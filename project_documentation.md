@@ -33,8 +33,17 @@
 **Accuracy** - The product must be accurate in terms of timing so that the light and sound will activate at the correct time and the product will do what it is meant to do.
 
 ## Algorithms:
-### Flowchart:
-![alt text](image-1.png)
+### Flowchart 1:
+![alt text](image.png)
 
-### Pseudocode:
-kajsbfouiadalkjd
+### Flowchart 2:
+![alt text](image-2.png)
+
+### Flowchart 3:
+
+### Pseudocode 1:
+![alt text](image-3.png)
+
+### Pseudocode 2:
+![alt text](image-4.png)
+
