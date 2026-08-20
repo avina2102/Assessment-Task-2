@@ -111,7 +111,7 @@ My final project successfully solves the problem of people staring at screens fo
 I feel that I could have managed my project a little better in terms of time. For example, I only started the testing and debugging section three days before the due date, and I still had earlier parts of the project to finish. This shows that my time management was a bit rushed at the end and left me with stress before the deadline. Overall, even though it was stressful, I was still able to finish the prototype and meet all the assessment's requirements successfully.
 
 **Evaluate your Project in Relation to Peer Feedback:**
-Based on peer feedback
+Peer feedback has helped me realise that simplicity is key to making people adopt my product because it is easy to navigate. For example, if a product has too many purposes and complicated features, users will get confused and give up. This proves that keeping the design basic actually makes the product much more efficient. Overall, maintaining a simple layout is the best way to ensure user success.
 
 **Justify Future Improvements you could make to your Final Product:**
 An improvement I would make to my final product is to upgrade the hardware so the system is more interesting and interactive. For example, I could add multiple blinking LEDs or a buzzer that alerts the user when the countdown finishes. This change would make the project much better as it triggers more than one sense and grabs the user's attention much better. Overall, while my product functions exactly as planned, these additions would make it much more engaging and effective for everyday use.
