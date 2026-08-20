@@ -83,19 +83,19 @@ There is a recording in the folder to watch. This is the video of my product wor
 
 ### Evaluate Process:
 
-In the original test case, I had included a buzzer to alarm the users to take a break from their screens. But eventually, I realised that the concept of buzzer was unnecessary, so instead of overcomplicating , I kept it simple and easy to use. To fix errors, I analysed my code to see whether the LED values, pin values and everything was all correct. When I found an error I tried fixing it and if it didn't work, I repeated the process. The LED component went really well, because the circuit is easy to assemble and code was well written. What really challenged me through this process was my initial idea to include the piezzo buzzer to make an alarming noise to notify the users. After I realised that it is an unnessaery step, I decided to drop this aspect and keep my project simple. Based on the test results, I think my system can include more functionality to make it comprehensive. I could have improved the machine to be a little more interesting by adding functionality like snooze etc.    
+In the original test case, I had included a buzzer to alarm the users to take a break from their screens. But eventually, I realised that the concept of buzzer was unnecessary, so instead of overcomplicating , I kept it simple and easy to use. To fix errors, I analysed my code to see whether the LED values, pin values and everything was all correct. When I found an error I tried fixing it and if it didn't work, I repeated the process. The LED component went really well, because the circuit is easy to assemble and code was well written. What really challenged me through this process was my initial idea to include the piezzo buzzer to make an alarming noise to notify the users. After I realised that it is an unnessaery step, I decided to drop this aspect and keep my project simple. Based on the test results, I think my system can include more functionality to make it comprehensive. I could have improved the machine to be a little more interesting by adding functionality like snooze etcs.    
 
 ## Evaluation
 
 ### PMI Table - Rachael
 | Plus | Minus     | Interesting   |
 |---------- |---------- |----------------   |
-|       |            |            |
+||||
 
-### PMI Table Sarah
-| Plus | Minus     | Implication   |
+### PMI Table - Sarah
+| Plus | Minus     | Interesting   |
 |---------- |---------- |----------------   |
-|       |            |            |
+| The final product addresses the need, and meets the need and requirements well. The blue led flashes at the required time and the button works perfectly well. The code is short and efficient and functions the program perfectly. |The program and wiring worked perfectly fine but the product is quite simple. The need states that the program will alert the user to take a break when the LED flashes but the user might not notice. Avina could implement a buzzer to alarm the person so they can notice it easier.        | The program was interesting because it is interactive and unique. The button is fun to press.            |
 
 ### Final Evaluation Questions (SEEL)
 **Evaluate your Final Test in Relation to Functional Criteria:**
