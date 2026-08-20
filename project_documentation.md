@@ -90,7 +90,7 @@ In the original test case, I had included a buzzer to alarm the users to take a 
 ### PMI Table - Rachael
 | Plus | Minus     | Interesting   |
 |---------- |---------- |----------------   |
-||||
+|Circuitry works practically, and fulfills the functional and non-functional requirements well. There are no delays with the LED and button working perfectly with no issue. Code works efficiently and does not output any errors to the user or the raspberry pi pico. The benefit of this solution is the annoyance of a bright light while distracted on your device.|||
 
 ### PMI Table - Sarah
 | Plus | Minus     | Interesting   |
