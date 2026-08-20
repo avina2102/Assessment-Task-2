@@ -90,12 +90,12 @@ In the original test case, I had included a buzzer to alarm the users to take a 
 ### PMI Table - Rachael
 | Plus | Minus     | Interesting   |
 |---------- |---------- |----------------   |
-|Circuitry works practically, and fulfills the functional and non-functional requirements well. There are no delays with the LED and button working perfectly with no issue. Code works efficiently and does not output any errors to the user or the raspberry pi pico. The benefit of this solution is the annoyance of a bright light while distracted on your device.|||
+|Circuitry works practically, and fulfills the functional and non-functional requirements well. There are no delays with the LED and button working perfectly with no issue. Code works efficiently and does not output any errors to the user or the raspberry pi pico. The benefit of this solution is the annoyance of a bright light while distracted on your device.|The LED doesn't distract all that much, due to the circuit needing to be in front of you to notice the indication of an hour passing by. If the LED were in a position that cannot be directly seen, the user has no indication of the time.|The fact that the circuitry and code runs perfectly implies that the creator has effectively designed a solution to the defined issue. However, the solution itself does have some major issues. The LED is easily to be accidentally ignored due to focus being on the mobile device, and the fact that the LED could be easily incapable to be viewed is also a concern. However, overall, the system runs correctly and meets its designated requirements and purpose as a whole.|
 
 ### PMI Table - Sarah
 | Plus | Minus     | Interesting   |
 |---------- |---------- |----------------   |
-| The final product addresses the need, and meets the need and requirements well. The blue led flashes at the required time and the button works perfectly well. The code is short and efficient and functions the program perfectly. |The program and wiring worked perfectly fine but the product is quite simple. The need states that the program will alert the user to take a break when the LED flashes but the user might not notice. Avina could implement a buzzer to alarm the person so they can notice it easier.        | The program was interesting because it is interactive and unique. The button is fun to press.            |
+|The final product addresses the need, and meets the need and requirements well. The blue led flashes at the required time and the button works perfectly well. The code is short and efficient and functions the program perfectly. |The program and wiring worked perfectly fine but the product is quite simple. The need states that the program will alert the user to take a break when the LED flashes but the user might not notice. Avina could implement a buzzer to alarm the person so they can notice it easier.        | The program was interesting because it is interactive and unique. The button is fun to press.            |
 
 ### Final Evaluation Questions (SEEL)
 **Evaluate your Final Test in Relation to Functional Criteria:**
@@ -111,7 +111,7 @@ My final project successfully solves the problem of people staring at screens fo
 I feel that I could have managed my project a little better in terms of time. For example, I only started the testing and debugging section three days before the due date, and I still had earlier parts of the project to finish. This shows that my time management was a bit rushed at the end and left me with stress before the deadline. Overall, even though it was stressful, I was still able to finish the prototype and meet all the assessment's requirements successfully.
 
 **Evaluate your Project in Relation to Peer Feedback:**
-
+Based on peer feedback
 
 **Justify Future Improvements you could make to your Final Product:**
 An improvement I would make to my final product is to upgrade the hardware so the system is more interesting and interactive. For example, I could add multiple blinking LEDs or a buzzer that alerts the user when the countdown finishes. This change would make the project much better as it triggers more than one sense and grabs the user's attention much better. Overall, while my product functions exactly as planned, these additions would make it much more engaging and effective for everyday use.
